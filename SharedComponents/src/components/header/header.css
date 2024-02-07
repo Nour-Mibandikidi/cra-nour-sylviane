@@ -1,0 +1,30 @@
+.header-container {
+    background-color: #d2a8c7;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .header-container h1 {
+    margin: 0;
+  }
+  
+  .header-container nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header-container nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .header-container nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .header-container nav ul li a:hover {
+    color: #ddd;
+  }
+  
